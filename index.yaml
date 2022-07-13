@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  ecptrue:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2022-07-13T12:33:21.2975895-05:00"
+    description: Admin API Helm Chart
+    digest: 8a8e166a39be57c33ea4d29634a80bdaf89ba2aa81e6be584866d48f86551182
+    name: ecptrue
+    urls:
+    - ecptrue-1.0.2.tgz
+    version: 1.0.2
+generated: "2022-07-13T12:33:21.2856961-05:00"
